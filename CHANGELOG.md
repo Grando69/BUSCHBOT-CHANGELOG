@@ -2,6 +2,20 @@
 
 ---
 
+## (V.3.1) - 2021.11.22
+
+### added
+
+- new |quiz command for some trivia questions
+- Changelog is automatically sent to a certain channel on my [Discord](https://discord.com/invite/KKurKQFDPz)
+
+### changed
+
+- |fact requires new permissions **"SEND_MESSAGES", "EMBED_LINKS", "ADD_REACTIONS"**
+- |code the timer was increased from 25s to 45s
+
+---
+
 ## (V.3.0) - 2021.10.1
 
 ### added
