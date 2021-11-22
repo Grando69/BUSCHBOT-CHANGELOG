@@ -2,6 +2,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## (V.3.1) - 2021.11.22
 
 ### added
@@ -17,6 +18,9 @@
 ---
 
 ## (V.3.0) - 2021.10.1
+=======
+## (V.3.0) - 2021.22.09
+>>>>>>> b11ac55b26b517550d5f365e99a31527b89621bf
 
 ### added
 
@@ -35,4 +39,4 @@
 
 ### Why am I starting on V.3.0?
 
-This is the first official Changelog for BUSCHBOT. The first version was just a test. Second version was me beeing serious and useing a premade command-handler. Now I made my own, switched to DISCORDJS V13 and im useing TS which im completle new to.
+This is the first official Changelog for BUSCHBOT. The first version was just a test. Second version was me being serious and using a premade command-handler. Now I made my own, switched to DISCORDJS V13 and im using TS which I am completly new to.
