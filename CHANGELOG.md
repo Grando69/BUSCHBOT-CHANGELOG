@@ -1,7 +1,7 @@
 # Changelog for [Buschbot](https://grando69.github.io/redirects/add)
 
 ---
-## (V.4.0) - 2022 27.3.21
+## (V.4.0) - 2022.27.3
 
 ### added
 
@@ -11,7 +11,9 @@
 - /dailyfacts returns both new daily facts
 
 ### changed
+
 - |quiz should no longer crash (I hope)
+
 ---
 ## (V.3.1) - 2021.11.22
 
