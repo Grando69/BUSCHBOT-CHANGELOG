@@ -1,7 +1,18 @@
 # Changelog for [Buschbot](https://grando69.github.io/redirects/add)
 
 ---
+## (V.4.0) - 2022 27.3.21
 
+### added
+
+- new Slash Commands (IMPORTANT: Slash Commands are only update after about 1h after release)
+- /champ returns a gif which is a great response
+- /magic8ball answers a simple yes no question 
+- /dailyfacts returns both new daily facts
+
+### changed
+- |quiz should no longer crash (I hope)
+---
 ## (V.3.1) - 2021.11.22
 
 ### added
