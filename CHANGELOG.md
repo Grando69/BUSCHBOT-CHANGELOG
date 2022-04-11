@@ -1,6 +1,18 @@
 # Changelog for [Buschbot](https://grando69.github.io/redirects/add)
 
 ---
+## (V.4.1) - 2022.4.11
+
+### added
+- new |playlist command for some of Grando's playlists
+
+### changed
+- |help now has a page like design
+- |help can now use arguments and shows a detailed view of a command
+- |help now shows syntax, permissions and aliases
+- a few typos have been removed
+
+---
 ## (V.4.0) - 2022.27.3
 
 ### added
