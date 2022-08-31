@@ -1,6 +1,14 @@
 # Changelog for [Buschbot](https://grando69.github.io/redirects/add)
 
 ---
+
+## (V.4.2) - 2022.8.31
+
+### changed
+- Noting big this update just some cleanup and spelling fixes
+- Development on Buschbot V.5.0 will start very soon 
+
+---
 ## (V.4.1) - 2022.4.11
 
 ### added
@@ -13,7 +21,7 @@
 - a few typos have been removed
 
 ---
-## (V.4.0) - 2022.27.3
+## (V.4.0) - 2022.3.27
 
 ### added
 
